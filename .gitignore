@@ -78,7 +78,6 @@ web_modules/
 .env.test.local
 .env.production.local
 .env.local
-.vscode
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -121,7 +120,6 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
 
 # yarn v2
 .yarn/cache
@@ -130,3 +128,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 .vercel
+yarn.lock
+.gitignore
