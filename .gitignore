@@ -129,4 +129,3 @@ dist
 .pnp.*
 .vercel
 yarn.lock
-.gitignore
